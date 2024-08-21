@@ -1,4 +1,4 @@
-# Elsevier Bowling Score Counter
+# Bowling Score Counter
 
 You have been given the code to calculate the score of a game of bowling. 
 However, before using it, you need to validate that the code works as expected.
